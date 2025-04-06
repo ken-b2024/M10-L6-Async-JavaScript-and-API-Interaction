@@ -36,7 +36,6 @@ getAndShowPokemon('mewtwo')
 
 // Part II
 
-
 const secondsInput = document.getElementById('secondsInput');
 const startBtn = document.getElementById('startBtn');
 const timer = document.getElementById('timer');
